@@ -16,7 +16,7 @@ A modern web app to help users manage their daily medicines with reminders and n
 - JavaScript
 
 ## 📸 Screenshots
-(Add screenshots below)
+![App Screenshot](Screenshot 2026-05-03 164309.png)
 
 ## 🌐 Live Demo
 (Add your GitHub Pages link here)
