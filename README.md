@@ -2,7 +2,7 @@
 
 A modern web app to help users manage their daily medicines with reminders and notifications.
 
-## 🚀 Features
+##  Features
 - Add medicines with time & dosage
 - Smart reminders with sound
 - Browser notifications
@@ -10,20 +10,13 @@ A modern web app to help users manage their daily medicines with reminders and n
 - Data saved using local storage
 - Clean modern UI
 
-## 🖥️ Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 - JavaScript
 
 ## 📸 Screenshots
 ![App Screenshot](Screenshot 2026-05-03 164309.png)
-
-## 🌐 Live Demo
-(Add your GitHub Pages link here)
-
-## 📂 How to Run
-1. Download the project
-2. Open index.html in browser
 
 ## ✨ Author
 MeghanaTech
